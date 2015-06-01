@@ -1,0 +1,28 @@
+body{
+background-color : rgba(128, 128, 128, 0.43);
+}
+h1{
+color :blue;
+width :100%;
+
+}
+p.normal {
+    font-style: normal;
+	
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.special {
+text-decoration : underline;
+font-weight:bold;
+}
+
+img.featured{
+	float: right;
+	
+	
+	
+}
